@@ -64,3 +64,8 @@ Clone репозитория
 ```sh
 gt clone <url_github>
 ```
+
+Push ветки
+```sh
+git push --set-upstream origin <branch_name>
+```
